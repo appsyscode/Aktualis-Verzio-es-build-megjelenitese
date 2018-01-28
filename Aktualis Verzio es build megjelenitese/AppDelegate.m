@@ -12,7 +12,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-        
+        //version
+    
     NSDictionary *infoDictionary = [[NSBundle mainBundle] infoDictionary];                //hozzáadva
     NSString *version = [infoDictionary objectForKey:@"CFBundleShortVersionString"];      //hozzáadva
     NSString *build = [infoDictionary objectForKey:@"CFBundleVersion"];                   //hozzáadva

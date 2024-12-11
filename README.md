@@ -11,3 +11,7 @@ A készüléken  a beállítások alkalmazásban -> app megjelenik a verziószá
   ````
   
   A projekten belül beállítva a Run Scriptnél az automata verziószám emelkedést.
+  
+  <p align="center">
+  <img style="text-align:center" src="version.png" width="50%" height="50%">
+  </p>
